@@ -1,0 +1,274 @@
+<mxfile host="65bd71144e">
+    <diagram id="RFpnZ2PlDJAjzPgr2h2K" name="01">
+        <mxGraphModel dx="1086" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="install packages" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="set the app" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="import thr env dependendency to use the .env" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;00 - Project Preview&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;01 - Backend Setup&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;02 - Database Setup&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;03 - Save Favorites Endpoint&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;04 - Delete Favorites Endpoint&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;05 - GET Favorites Endpoint&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;06 - Deploying our API&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;07 - CRON Jobs Explained&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;08 - React Native Setup&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;09 - React Native Basics&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;10 - Setting Up Our Assets &amp;amp; Condif&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;11 - Building Sign In Screen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;12 - Building Sign Up Screen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;13 - Setting Up Tab Navigator&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;14 - Building Home Screen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;15 - Completing Home Screen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;16 - Building Search Screen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;17 - Building Favorites Screen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;18 - Building Recipe Detail Screen&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="220" width="200" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" parent="1" source="8" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="package vs module" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="10" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="create a centralised configuration file" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" parent="1" source="12" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="npm install drizzle kit" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="510" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="what is difference betwen the drizzle kit and drizzle orm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="500" width="80" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="RVbZ5MpjetmZe1xofEqr" name="03DatabaseSetup">
+        <mxGraphModel dx="1326" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="fCjzjOHy10qWshm4djTB-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-1" target="fCjzjOHy10qWshm4djTB-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-1" value="connect to databse" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-2" target="fCjzjOHy10qWshm4djTB-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-2" value="postgres database in neon" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-4" target="fCjzjOHy10qWshm4djTB-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-4" value="create a databse folder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-6" target="fCjzjOHy10qWshm4djTB-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-6" value="create the schema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-8" target="fCjzjOHy10qWshm4djTB-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-8" value="create the db.js in the confic to set the connection" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-10" target="fCjzjOHy10qWshm4djTB-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-10" value="connect to the cloud database neon, using the drizzle,config,js&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-12" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;what is an orm and is the drizzle an orm?&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="300" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-14" target="fCjzjOHy10qWshm4djTB-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-14" value="we create the js code form of the schema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-15" target="fCjzjOHy10qWshm4djTB-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-15" value="using the drizzle the migration is set up that creates the sql form of the schma in the db , in the migration folder, based on what we have defined int he drizzle.config.js using the command npx drizzle-kit generate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="165" y="395" width="130" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-17" value="to push the sql generate schema to cloud use, npx drizzle-kit migrate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="[schema.ts]&#xa;           |&#xa;           v&#xa;&quot;npx drizzle-kit generate:pg&quot;  ----&gt;  [migrations/0001_x.sql]&#xa;           |&#xa;           v&#xa;&quot;npx drizzle-kit push&quot;         ----&gt;  Neon Cloud DB (tables created)&#xa;&#xa;&#xa;           ||&#xa;           vv&#xa;&#xa;&#xa;[lib/db.ts]  (runtime setup)&#xa;  - drizzle()&#xa;  - neon()&#xa;  - schema import&#xa;           |&#xa;           v&#xa;Used in app logic (e.g. routes, API handlers)&#xa;           |&#xa;           v&#xa;Queries run on Neon Cloud DB (select, insert, update, delete)" link="[schema.ts]&#xa;           |&#xa;           v&#xa;&quot;npx drizzle-kit generate:pg&quot;  ----&gt;  [migrations/0001_x.sql]&#xa;           |&#xa;           v&#xa;&quot;npx drizzle-kit push&quot;         ----&gt;  Neon Cloud DB (tables created)&#xa;&#xa;&#xa;           ||&#xa;           vv&#xa;&#xa;&#xa;[lib/db.ts]  (runtime setup)&#xa;  - drizzle()&#xa;  - neon()&#xa;  - schema import&#xa;           |&#xa;           v&#xa;Used in app logic (e.g. routes, API handlers)&#xa;           |&#xa;           v&#xa;Queries run on Neon Cloud DB (select, insert, update, delete)" id="fCjzjOHy10qWshm4djTB-19">
+                    <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+                        <mxGeometry x="370" y="640" width="370" height="350" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="fCjzjOHy10qWshm4djTB-20" value="Schema Structure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCjzjOHy10qWshm4djTB-21" style="edgeStyle=none;html=1;entryX=0.303;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fCjzjOHy10qWshm4djTB-20" target="fCjzjOHy10qWshm4djTB-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="R8BjXEe-u5ufmCZKDQbc" name="04SaveFavoirites">
+        <mxGraphModel dx="1086" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7Zz5OHsWJ-f8IMQVQpCF-1" target="7Zz5OHsWJ-f8IMQVQpCF-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-1" value="get the detail from the req body and send it to the database" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7Zz5OHsWJ-f8IMQVQpCF-2" target="7Zz5OHsWJ-f8IMQVQpCF-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-2" value="use the postman" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7Zz5OHsWJ-f8IMQVQpCF-4" target="7Zz5OHsWJ-f8IMQVQpCF-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-4" value="use app.post" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7Zz5OHsWJ-f8IMQVQpCF-6" target="7Zz5OHsWJ-f8IMQVQpCF-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-6" value="get data from the body of request adn store it" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ck29b6Wd_WkBHonujMGg-2" value="error" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7Zz5OHsWJ-f8IMQVQpCF-8" target="Ck29b6Wd_WkBHonujMGg-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-8" value="use the db from the config folder to insert the req data to the table , which will update cloud database" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="340" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-10" value="Adding favourites to the database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="18" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Zz5OHsWJ-f8IMQVQpCF-11" value="Authentication using the Clerk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="540" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ck29b6Wd_WkBHonujMGg-4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Ck29b6Wd_WkBHonujMGg-1" target="Ck29b6Wd_WkBHonujMGg-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ck29b6Wd_WkBHonujMGg-1" value="import schema from the db" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="525" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ck29b6Wd_WkBHonujMGg-3" value="success" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="665" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="SIKfBKEiHDGV_id0auub" name="05 - Delete Favorites Endpoint">
+        <mxGraphModel dx="1086" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-1" value="05 - Delete Favorites Endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="28" width="190" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="YeSoHAIj8IoW8LUynDjj-2" target="YeSoHAIj8IoW8LUynDjj-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-2" value="delete the particular recipe of particu;ar ID" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="YeSoHAIj8IoW8LUynDjj-3" target="YeSoHAIj8IoW8LUynDjj-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-3" value="using the params to get the userId, and recipeID from the api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-8" value="error" style="edgeStyle=none;html=1;" edge="1" parent="1" source="YeSoHAIj8IoW8LUynDjj-5" target="YeSoHAIj8IoW8LUynDjj-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-5" value="weite the code to delete the row in the favourute table from the database having the userID and recipeID as in the api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="45" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="YeSoHAIj8IoW8LUynDjj-7" target="YeSoHAIj8IoW8LUynDjj-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-7" value="import and and eq from drizzle-orm" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YeSoHAIj8IoW8LUynDjj-9" value="success" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="9tboOkORfdk-HdNwi9Ph" name="06 - GET Favorites Endpoint">
+        <mxGraphModel dx="1086" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="lrZe9CEmAGawdzvuwEbn-1" target="lrZe9CEmAGawdzvuwEbn-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-1" value="get the favourites of particular user" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="lrZe9CEmAGawdzvuwEbn-2" target="lrZe9CEmAGawdzvuwEbn-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-2" value="get the user Id from te Api end point" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="lrZe9CEmAGawdzvuwEbn-4" target="lrZe9CEmAGawdzvuwEbn-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-4" value="get all the rows in the databse from the cloud databse" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-9" value="error" style="edgeStyle=none;html=1;" edge="1" parent="1" source="lrZe9CEmAGawdzvuwEbn-6" target="lrZe9CEmAGawdzvuwEbn-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-6" value="show hte data as the json" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lrZe9CEmAGawdzvuwEbn-8" value="in api end point in the backend code , puut the /api insted of&amp;nbsp; api." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="mp8rAVVS7kWQyUs4NzBI" name="07 - Deploying our API">
+        <mxGraphModel dx="1086" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-1" target="GWKzPUSSCsitTtUiHjTO-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-1" value="create the gitignore" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-2" target="GWKzPUSSCsitTtUiHjTO-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-2" value="ignore the .env file and the node_module folder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-4" value="initialise the git in backent dir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
