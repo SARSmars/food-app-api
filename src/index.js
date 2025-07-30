@@ -1,13 +1,24 @@
 import express from 'express';
 import {db} from './config/db.js';
-const app = express();
 import { ENV } from  './config/env.js';
-const PORT = ENV.PORT;
 import { favoritesTable } from './db/schema.js';
 import { and, eq } from "drizzle-orm";
+import job from './config/corn.js';
+
+
+const app = express();
+const PORT = ENV.PORT;
 
 
 app.use(express.json());
+ 
+
+if(ENV.NODE_ENV === 'production') job.start();
+// Cron
+
+app.get("/api/health", (req, res) => {
+  res.status(200).json({ success: true });
+});
 
 // Set the favourite
 

@@ -249,7 +249,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="mp8rAVVS7kWQyUs4NzBI" name="07 - Deploying our API">
-        <mxGraphModel dx="1086" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1086" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -265,8 +265,81 @@
                 <mxCell id="GWKzPUSSCsitTtUiHjTO-2" value="ignore the .env file and the node_module folder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="270" y="30" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-4" target="GWKzPUSSCsitTtUiHjTO-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="GWKzPUSSCsitTtUiHjTO-4" value="initialise the git in backent dir" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="470" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-6" target="GWKzPUSSCsitTtUiHjTO-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-6" value="create the repository inthe github" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-8" target="GWKzPUSSCsitTtUiHjTO-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-8" value="set up files in staging area" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-12" target="GWKzPUSSCsitTtUiHjTO-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-10" target="GWKzPUSSCsitTtUiHjTO-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-10" value="push to internet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="git remote add origin https://github.com/SARSmars/food-app-api.git&#xa;git branch -M main&#xa;git push -u origin main" link="git remote add origin https://github.com/SARSmars/food-app-api.git&#xa;git branch -M main&#xa;git push -u origin main" id="GWKzPUSSCsitTtUiHjTO-12">
+                    <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                        <mxGeometry x="560" y="440" width="340" height="70" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-17" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-16" target="GWKzPUSSCsitTtUiHjTO-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-18" target="GWKzPUSSCsitTtUiHjTO-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-14" target="GWKzPUSSCsitTtUiHjTO-20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-14" value="deploy this render.com" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-16" value="this is used to test the api on internet, has a issue of time limit of 15 minutes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-18" value="using the cron jobs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-23" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="GWKzPUSSCsitTtUiHjTO-20" target="GWKzPUSSCsitTtUiHjTO-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-20" value="put the creadential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GWKzPUSSCsitTtUiHjTO-22" value="finish" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="wuvArARWU0bVzUT9Hzd1" name="08 - CRON Jobs Explained">
+        <mxGraphModel dx="1086" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="XY9_z01CcgyAhjP9N7v--3" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="XY9_z01CcgyAhjP9N7v--1" target="XY9_z01CcgyAhjP9N7v--2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XY9_z01CcgyAhjP9N7v--1" value="sernfd the get rewuest to api on internet every 14 minutes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XY9_z01CcgyAhjP9N7v--2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="130" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
